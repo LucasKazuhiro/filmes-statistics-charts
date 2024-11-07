@@ -71,3 +71,21 @@ Siga o passo a passo para gerar os gráficos no Excel e HTML.
 py movielist-stats.py
 ```
 3. Acesse o arquivo Excel para visualizar as tabelas, ou abra os arquivos HTML (gerados no próprio root) para visualizar os gráficos.
+
+
+<br><br><br><br><br>
+
+---
+# Imagens do Projeto
+## Rankings/Tabelas no Excel
+![Stats Gerais](/readme-images/stats_gerais.png)
+![Stats Gerais de Classificação Indicativa](/readme-images/stats_gerais_classind.png)
+![Stats Gerais de Genero](/readme-images/stats_gerais_genero.png)
+![Ranking de Distribuidora](/readme-images/mais_maior_distribuidora.png)
+![Ranking de Franquia](/readme-images/mais_maior_franquia.png)
+
+## Gráficos HTML
+![Grafico de Ano](/readme-images/grafico_ano.png)
+![Grafico de Franquia](/readme-images/grafico_franquia.png)
+![Grafico de Genero](/readme-images/grafico_genero.png)
+![Grafico de Distribuidora](/readme-images/grafico_Distribuidora.png)
