@@ -3,6 +3,7 @@
     PARA PERMITIR QUE O SCRIPT FUNCIONE, EXECUTAR OS SEGUINTES COMANDOS NO CMD:
     pip install openpyxl
     pip install pandas
+    pip install plotly
 
 '''
 
