@@ -88,4 +88,4 @@ py movielist-stats.py
 ![Grafico de Ano](/readme-images/grafico_ano.png)
 ![Grafico de Franquia](/readme-images/grafico_franquia.png)
 ![Grafico de Genero](/readme-images/grafico_genero.png)
-![Grafico de Distribuidora](/readme-images/grafico_Distribuidora.png)
+![Grafico de Distribuidora](/readme-images/grafico_distribuidora.png)
